@@ -1,0 +1,6 @@
+node_modules/
+theme/
+book.toml
+package-lock.json
+package.json
+index.md
