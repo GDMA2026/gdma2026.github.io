@@ -1,5 +1,5 @@
 # The 10th Data Management and Analysis (GDMA 2026)
-<center>April 17-30, 2026, South Korea </center> 
+<center>April 27-30, 2026, South Korea </center> 
 
 <center><b>In conjunction with the 31st International Conference on Database Systems for Advanced Applications (DASFAA 2026)</b></center> 
 
